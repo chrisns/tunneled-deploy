@@ -1,5 +1,7 @@
 # tunneled-deploy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisns/tunneled-deploy.svg)](https://greenkeeper.io/)
+
 Useful for running command securely like setting up webhooks for updating docker images.
 
 ```shell
